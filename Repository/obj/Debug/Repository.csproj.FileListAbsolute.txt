@@ -1,0 +1,10 @@
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\Repository\bin\Debug\Repository.dll.config
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\Repository\bin\Debug\Repository.dll
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\Repository\bin\Debug\Repository.pdb
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\Repository\obj\Debug\Repository.dll
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\Repository\obj\Debug\Repository.pdb

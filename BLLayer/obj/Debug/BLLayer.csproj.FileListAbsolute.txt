@@ -1,0 +1,14 @@
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\BLLayer\bin\Debug\BLLayer.dll.config
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\BLLayer\bin\Debug\BLLayer.dll
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\BLLayer\bin\Debug\BLLayer.pdb
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\BLLayer\bin\Debug\EntityFramework.dll
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\BLLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\BLLayer\bin\Debug\ModelLayer.dll
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\BLLayer\bin\Debug\Repository.dll
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\BLLayer\bin\Debug\Repository.pdb
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\BLLayer\bin\Debug\EntityFramework.xml
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\BLLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\BLLayer\bin\Debug\ModelLayer.pdb
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\BLLayer\obj\Debug\BLLayer.csprojResolveAssemblyReference.cache
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\BLLayer\obj\Debug\BLLayer.dll
+C:\Users\Asmaa\Documents\Visual Studio 2015\Projects\EFDataBaseFirstLab\BLLayer\obj\Debug\BLLayer.pdb

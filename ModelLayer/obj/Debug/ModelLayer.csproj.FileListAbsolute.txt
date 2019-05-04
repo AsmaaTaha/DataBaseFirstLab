@@ -1,0 +1,10 @@
+c:\users\asmaa\documents\visual studio 2015\Projects\EFDataBaseFirstLab\ModelLayer\bin\Debug\ModelLayer.dll.config
+c:\users\asmaa\documents\visual studio 2015\Projects\EFDataBaseFirstLab\ModelLayer\bin\Debug\ModelLayer.dll
+c:\users\asmaa\documents\visual studio 2015\Projects\EFDataBaseFirstLab\ModelLayer\bin\Debug\ModelLayer.pdb
+c:\users\asmaa\documents\visual studio 2015\Projects\EFDataBaseFirstLab\ModelLayer\bin\Debug\EntityFramework.dll
+c:\users\asmaa\documents\visual studio 2015\Projects\EFDataBaseFirstLab\ModelLayer\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\asmaa\documents\visual studio 2015\Projects\EFDataBaseFirstLab\ModelLayer\bin\Debug\EntityFramework.xml
+c:\users\asmaa\documents\visual studio 2015\Projects\EFDataBaseFirstLab\ModelLayer\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\asmaa\documents\visual studio 2015\Projects\EFDataBaseFirstLab\ModelLayer\obj\Debug\ModelLayer.csprojResolveAssemblyReference.cache
+c:\users\asmaa\documents\visual studio 2015\Projects\EFDataBaseFirstLab\ModelLayer\obj\Debug\ModelLayer.dll
+c:\users\asmaa\documents\visual studio 2015\Projects\EFDataBaseFirstLab\ModelLayer\obj\Debug\ModelLayer.pdb
